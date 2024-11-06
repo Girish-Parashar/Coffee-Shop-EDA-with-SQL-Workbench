@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Girish-Parashar/Coffee-Shop-EDA-with-SQL-Workbench/blob/main/mysql.png" alt="MySQL Image">
+</p>
+
+
 # Coffee Shop EDA with SQL Workbench
 
 ## Project Overview
